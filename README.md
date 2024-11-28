@@ -28,7 +28,7 @@ Kongre Tarihleri: 14-15 June 2021 Istanbul, Turkey
 
 ** Kongre Erişim Sayfaları
 
-[Kongre İnternet Sayfası](https://www.muhendislikveteknolojiyonetimikongresi.org)
+[Kongre İnternet Sayfası](https://www.aydin.edu.tr/haberler/Pages/international-conference-on-al-and-big-data-in-engineering-applications-2021.aspx)
 
 [1. Araştma Yayın Linki](https://scholar.google.com.tr/citations?view_op=view_citation&hl=tr&user=XSEW-NcAAAAJ&sortby=pubdate&citation_for_view=XSEW-NcAAAAJ:M3ejUd6NZC8C)
 
