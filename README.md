@@ -42,3 +42,4 @@ In this study, vehicle classification based on convolutional neural network has 
 
 Keywords: Convolutional Neural Network, Fully Connected Layers, Vehicle Detection,YOLO
 
+## How to Cite / Nasıl Alıntı Yapılır
