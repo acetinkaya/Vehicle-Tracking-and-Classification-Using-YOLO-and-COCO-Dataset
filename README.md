@@ -24,6 +24,8 @@ Kongre Kitabı ISBN No: 978-625-7783-826
 
 Kongre Tarihleri: 14-15 June 2021 Istanbul, Turkey
 
+---
+
 ** Kongre Erişim Sayfaları
 
 [Kongre İnternet Sayfası](https://www.muhendislikveteknolojiyonetimikongresi.org)
