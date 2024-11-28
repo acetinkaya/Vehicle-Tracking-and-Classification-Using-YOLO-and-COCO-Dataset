@@ -22,6 +22,9 @@ Kongre İsmi: NTERNATIONAL CONFERENCE ON AI AND BIG DATA IN ENGINEER ING APPLICA
 
 Kongre Kitabı ISBN No: 978-625-7783-826
 
+Kongre Tarihleri: 14-15 June 2021 Istanbul, Turkey
+
+
 
 https://www.researchgate.net/publication/353958426_Vehicle_Classification_and_Tracking_Using_Convolutional_Neural_Network_Based_on_Darknet_Yolo_with_Coco_Dataset
 
