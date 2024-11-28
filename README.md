@@ -32,7 +32,7 @@ Kongre Tarihleri: 14-15 June 2021 Istanbul, Turkey
 
 [1. Araştma Yayın Linki](https://alicetinkaya.site/blog/f/vehicle-classification-cnn-darknet-coco-dataset)
 
-[ResearchGate](https://www.instagram.com/p/Cl24S8VsLTN/)
+[ResearchGate](https://www.researchgate.net/publication/353958426_Vehicle_Classification_and_Tracking_Using_Convolutional_Neural_Network_Based_on_Darknet_Yolo_with_Coco_Dataset)
 
 
 
