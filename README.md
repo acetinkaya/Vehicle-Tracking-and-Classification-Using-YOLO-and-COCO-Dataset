@@ -16,7 +16,7 @@ Vehicle Classification and Tracking Using Convolutional Neural Network Based on 
 
 ---
 
-** Kongre Bilgileri
+Kongre Bilgileri: 
 
 Kongre İsmi: NTERNATIONAL CONFERENCE ON AI AND BIG DATA IN ENGINEER ING APPLICATIONS
 
