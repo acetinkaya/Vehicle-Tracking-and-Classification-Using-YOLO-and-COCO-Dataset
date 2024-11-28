@@ -54,4 +54,4 @@ License:
 
 This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
 
-![alternatif metin](https://github.com/acetinkaya/Tahmin-ve-Ongoru-Islemlerinde-Yapay-Zeka-Uygulamalari/blob/main/bildiri1.png)
+![alternatif metin](https://github.com/acetinkaya/Vehicle-Tracking-and-Classification-Using-YOLO-and-COCO-Dataset/blob/main/Vehicle-classification-bildiri.png)
