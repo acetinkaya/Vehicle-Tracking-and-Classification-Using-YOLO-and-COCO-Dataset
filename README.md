@@ -24,7 +24,15 @@ Kongre Kitabı ISBN No: 978-625-7783-826
 
 Kongre Tarihleri: 14-15 June 2021 Istanbul, Turkey
 
+** Kongre Erişim Sayfaları
 
+[Kongre İnternet Sayfası](https://www.muhendislikveteknolojiyonetimikongresi.org)
+
+[1. Araştma Yayın Linki](https://scholar.google.com.tr/citations?view_op=view_citation&hl=tr&user=XSEW-NcAAAAJ&sortby=pubdate&citation_for_view=XSEW-NcAAAAJ:M3ejUd6NZC8C)
+
+[2. Araştma Yayın Linki](https://avesis.gelisim.edu.tr/yayin/37a2c628-3f1a-4e03-ad22-2bc667e3998a/yapay-zeka-kapsaminda-otonom-araclarin-ozelliklerinin-degerlendirilmesi)
+
+[4. Araştma Yayın Linki](https://www.instagram.com/p/Cl24S8VsLTN/)
 
 https://www.researchgate.net/publication/353958426_Vehicle_Classification_and_Tracking_Using_Convolutional_Neural_Network_Based_on_Darknet_Yolo_with_Coco_Dataset
 
