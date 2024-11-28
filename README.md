@@ -43,3 +43,5 @@ In this study, vehicle classification based on convolutional neural network has 
 Keywords: Convolutional Neural Network, Fully Connected Layers, Vehicle Detection,YOLO
 
 ## How to Cite / Nasıl Alıntı Yapılır
+
+- **IEEE**: Z.  Eşin Et Al. , "TAHMİN VE ÖNGÖRÜ İŞLEMLERİNDE YAPAY ZEKA UYGULAMALARI: SOSYAL MEDYA, DOĞAL DİL İŞLEME VE SOHBET BOTLARI ÜZERİNDE SİMÜLASYON ARAŞTIRMALARI,"  11. ULUSLARARASI MÜHENDİSLİK VE TEKNOLOJİ YÖNETİMİ KONGRESİ , vol.1, no.52024, İstanbul, Turkey, pp.298-305, 2024 
