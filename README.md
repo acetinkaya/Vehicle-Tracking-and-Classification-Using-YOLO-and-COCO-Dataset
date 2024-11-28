@@ -26,6 +26,8 @@ Kongre Tarihleri: 14-15 June 2021 Istanbul, Turkey
 
 ---
 
+![alternatif metin](https://github.com/acetinkaya/Vehicle-Tracking-and-Classification-Using-YOLO-and-COCO-Dataset/blob/main/Vehicle-classification-kongre.png)
+
 ** Kongre Erişim Sayfaları
 
 [Kongre İnternet Sayfası](https://www.aydin.edu.tr/haberler/Pages/international-conference-on-al-and-big-data-in-engineering-applications-2021.aspx)
