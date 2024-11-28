@@ -48,4 +48,5 @@ Keywords: Convolutional Neural Network, Fully Connected Layers, Vehicle Detectio
 
 - **APA**: Eşin, Z., Kızılkaya, K., Şahin, M., Yıldız, H. M.,  & Çetinkaya, A., (2024).  TAHMİN VE ÖNGÖRÜ İŞLEMLERİNDE YAPAY ZEKA UYGULAMALARI: SOSYAL MEDYA, DOĞAL DİL İŞLEME VE SOHBET BOTLARI ÜZERİNDE SİMÜLASYON ARAŞTIRMALARI . 11. ULUSLARARASI MÜHENDİSLİK VE TEKNOLOJİ YÖNETİMİ KONGRESİ (pp.298-305). İstanbul, Turkey                
 
+- **MLA**: Eşin, Zeynep Et Al.  "TAHMİN VE ÖNGÖRÜ İŞLEMLERİNDE YAPAY ZEKA UYGULAMALARI: SOSYAL MEDYA, DOĞAL DİL İŞLEME VE SOHBET BOTLARI ÜZERİNDE SİMÜLASYON ARAŞTIRMALARI."  11. ULUSLARARASI MÜHENDİSLİK VE TEKNOLOJİ YÖNETİMİ KONGRESİ , İstanbul, Turkey, pp.298-305, 2024
 
