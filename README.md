@@ -18,7 +18,7 @@ Vehicle Classification and Tracking Using Convolutional Neural Network Based on 
 
 ## Kongre Bilgileri: 
 
-Kongre İsmi: NTERNATIONAL CONFERENCE ON AI AND BIG DATA IN ENGINEER ING APPLICATIONS
+Kongre İsmi: INTERNATIONAL CONFERENCE on AI and BIG DATA in ENGINEER ING APPLICATIONS
 
 Kongre Kitabı ISBN No: 978-625-7783-826
 
