@@ -46,9 +46,9 @@ In this study, vehicle classification based on convolutional neural network has 
 
 - **IEEE**: A. Dogan, A. Okatan, A. Cetinkaya, "Vehicle Classification and Tracking UsingConvolutional Neural Network Based on DarknetYolo with Coco Dataset",  INTERNATIONAL CONFERENCE ONAI AND BIG DATA IN ENGINEER ING APPLICATIONS, vol.1, ISBN No: 978-625-7783-826, İstanbul, Turkey, pp.179-192, 2021 
 
-- **APA**: Dogan, A., Okatan, A. & Çetinkaya, A., (2021).  Vehicle Classification and Tracking UsingConvolutional Neural Network Based on DarknetYolo with Coco Dataset. INTERNATIONAL CONFERENCE ONAI AND BIG DATA IN ENGINEER ING APPLICATIONS (pp.179-192). İstanbul, Turkey                
+- **APA**: Dogan, A., Okatan, A. & Çetinkaya, A., (2021).  Vehicle Classification and Tracking UsingConvolutional Neural Network Based on DarknetYolo with Coco Dataset. INTERNATIONAL CONFERENCE ONAI AND BIG DATA IN ENGINEER ING APPLICATIONS (pp.179-179). İstanbul, Turkey                
 
-- **MLA**: Eşin, Zeynep Et Al.  "TAHMİN VE ÖNGÖRÜ İŞLEMLERİNDE YAPAY ZEKA UYGULAMALARI: SOSYAL MEDYA, DOĞAL DİL İŞLEME VE SOHBET BOTLARI ÜZERİNDE SİMÜLASYON ARAŞTIRMALARI."  11. ULUSLARARASI MÜHENDİSLİK VE TEKNOLOJİ YÖNETİMİ KONGRESİ , İstanbul, Turkey, pp.298-305, 2024
+- **MLA**: Dogan, Ahmet Et Al.  "Vehicle Classification and Tracking UsingConvolutional Neural Network Based on DarknetYolo with Coco Dataset."  INTERNATIONAL CONFERENCE ONAI AND BIG DATA IN ENGINEER ING APPLICATIONS , İstanbul, Turkey, pp.179-179, 2021
 
 License:
 
